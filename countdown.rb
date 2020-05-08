@@ -9,6 +9,6 @@ def countdown(number)
 when number = 0
   return "H"
 end
-  
+
 
 end
