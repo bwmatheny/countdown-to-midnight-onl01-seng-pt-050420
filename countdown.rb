@@ -5,6 +5,7 @@ def countdown(number)
     puts "#{number} SECOND(S)!"
     sleep 1
     number -= 1
+  end
   when number = 0
     return "HAPPY"
   end
