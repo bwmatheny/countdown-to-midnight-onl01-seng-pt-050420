@@ -7,7 +7,7 @@ def countdown(number)
     number -= 1
   end
 if number = 0
-  return "H"
+  return "HAPPY NEW YEAR!"
   
 
 end
