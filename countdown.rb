@@ -8,9 +8,6 @@ def countdown(number)
     number -= 1
 
   end
-when number = 0
-  "H"
-end
 
 
 end
