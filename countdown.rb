@@ -11,4 +11,4 @@ def countdown(number)
 
 
 end
-"h"
+"HAPPY NEW YEAR!"
