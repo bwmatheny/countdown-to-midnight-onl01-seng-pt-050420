@@ -2,7 +2,7 @@
 
 def countdown(number)
   loop do
-    
+
     puts "#{number} SECOND(S)!"
     number -= 1
     sleep 1
